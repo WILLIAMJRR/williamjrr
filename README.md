@@ -48,8 +48,8 @@ Proyectos de desarrollo web, donde utilizo herramientas como Javascript, React j
 <h2>📉 estadísticas:</h2>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamjrr&theme=dark" alt="williamjrr" /></div><br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamjrr&show_icons=true&locale=en&theme=dark" alt="cereceda1991" /></div><br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cereceda1991&show_icons=true&locale=en&layout=compact&theme=dark" alt="cereceda1991" /></div><br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamjrr&show_icons=true&locale=en&theme=dark" alt="williamjrr" /></div><br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamjrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="williamjrr" /></div><br>
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
