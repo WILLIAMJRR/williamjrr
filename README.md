@@ -40,7 +40,7 @@ pasion:['rendimiento web','web development']
 </div>
    
   
-## 🛠️Actualmente, estoy trabajando en...
+## 🛠️Actualmente, estoy trabajando y estudiando en...
   
 Proyectos de desarrollo web, donde utilizo herramientas como Javascript, React js, Node.js y Express.
   
