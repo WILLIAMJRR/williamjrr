@@ -1,5 +1,5 @@
-### Hi there 👋
-![me](https://github.com/WILLIAMJRR/williamjrr/issues/1#issue-1657895682)
+### Hi, I am William 💻⌨️ 👋
+![me](https://user-images.githubusercontent.com/122072865/230529738-f2a68733-6159-4d23-a6f4-b38556040456.png)
 <!--
 **WILLIAMJRR/williamjrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
