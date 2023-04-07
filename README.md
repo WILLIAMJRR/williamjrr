@@ -1,5 +1,13 @@
-### Hi, I am William 💻⌨️ 👋
+### Hola me llamo William 💻⌨️ 👋
 ![me](https://user-images.githubusercontent.com/122072865/230529738-f2a68733-6159-4d23-a6f4-b38556040456.png)
+
+```js
+const williamRodriguez = {
+tecnologias: "web",
+pasion:['rendimiento web','web development']
+
+}
+```
 <!--
 **WILLIAMJRR/williamjrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
