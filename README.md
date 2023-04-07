@@ -1,6 +1,6 @@
 <h1 align="center">Hola me llamo  💻⌨️ 👋👋</h1> 
 
-![me](https://user-images.githubusercontent.com/122072865/230529738-f2a68733-6159-4d23-a6f4-b38556040456.png)
+![me](https://user-images.githubusercontent.com/122072865/230633251-34e6c361-706e-4013-919d-0ec507948721.png)
 
 ```js
 const williamRodriguez = {
