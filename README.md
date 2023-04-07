@@ -1,7 +1,8 @@
-<h1 align="center">Hola me llamo  💻⌨️ 👋👋</h1> 
+<h1 align="center"><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/122072865/230640258-ba987cf3-9859-446b-b40f-eec0b43a7b8b.png" width="50"/></a> Hola me llamo  💻⌨️ 👋👋</h1> 
 
-![me](https://user-images.githubusercontent.com/122072865/230640258-ba987cf3-9859-446b-b40f-eec0b43a7b8b.png)
 
+
+  
 ![me](https://user-images.githubusercontent.com/122072865/230633251-34e6c361-706e-4013-919d-0ec507948721.png)
 
 ```js
