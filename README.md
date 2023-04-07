@@ -1,5 +1,5 @@
 ### Hi there 👋
-!(https://github.com/WILLIAMJRR/williamjrr/issues/1#issue-1657895682)[]
+![me](https://github.com/WILLIAMJRR/williamjrr/issues/1#issue-1657895682)
 <!--
 **WILLIAMJRR/williamjrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
