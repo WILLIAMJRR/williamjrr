@@ -14,8 +14,8 @@ pasion:['rendimiento web','web development']
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/william-jose-rodriguez-rojas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/></a>
-  <a href="https://www.instagram.com/cereceda91/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110" alt="Instagram Badge"/></a>
-  <a href="https://twitter.com/cereceda1991" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="97"/></a>
+  <a href="https://www.instagram.com/cereceda91/" target="_blank"><img src="https://img.shields.io/badge/Instagram-e14570?style=for-the-badge&logo=instagram&logoColor=white" width="110" alt="Instagram Badge"/></a>
+  <a href="https://web.facebook.com/profile.php?id=100014680625590" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"/></a>
 </div>
 12
 ​
