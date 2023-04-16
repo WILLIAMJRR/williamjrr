@@ -14,7 +14,7 @@ pasion:['rendimiento web','web development']
 }
 ```
 <div align="center"><img  src="https://user-images.githubusercontent.com/122072865/230727192-fce44546-3923-43d0-b3b9-66d96eb55370.png" width="300"  height="100" /></div>
-<p><em>Soy</em> <b>Full Stack Web Developer</b><em>💻 Como apasionado del desarrollo de páginas web, me enfoco en crear sitios interactivos y funcionales que satisfagan las necesidades y preferencias de los clientes. Además, disfruto de los videojuegos🎮🕹️ y películas de superhéroes🦸, terror y suspenso🧟🔪🔍. Tu objetivo es combinar tus habilidades en programación y tu pasión por el entretenimiento para crear experiencias en línea atractivas y emocionantes para los usuarios..</br>
+<p><em>Soy</em> <b>Frontend Web Developer</b><em>💻 Como apasionado del desarrollo de páginas web, me enfoco en crear sitios interactivos y funcionales que satisfagan las necesidades y preferencias de los clientes. Además, disfruto de los videojuegos🎮🕹️ y películas de superhéroes🦸, terror y suspenso🧟🔪🔍. Tu objetivo es combinar tus habilidades en programación y tu pasión por el entretenimiento para crear experiencias en línea atractivas y emocionantes para los usuarios..</br>
 </em></p>
 
 <div id="header" align="center">
